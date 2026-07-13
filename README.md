@@ -8,9 +8,11 @@
 
 > **Autor:** Leonardo Aderaldo Vargas  
 > **Fonte dos Dados:** [Kaggle — Daily Climate Time Series Data](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data?select=DailyDelhiClimateTrain.csv)  
+
 > **Status:**
+
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=YELLOW&style=for-the-badge"/>
 </p>
 
 ---
